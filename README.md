@@ -2,7 +2,7 @@ Sunucu üzerinde geliştirme işlemini tamamladıktan sonra onun anında güncel
 
 kurulum için;
 
-"npm kurulum -D nodemon" biçimleri terminalimizde çalıştırıyoruz.
+	"npm kurulum -D nodemon" biçimleri terminalimizde çalıştırıyoruz.
 
 
 package.jsonda da server şeklindeki sunucumuzun çalıştırılma adımını ekliyoruz;
