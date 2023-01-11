@@ -2,7 +2,7 @@
 Server üzerinde geliştirme işlemi yaptıktan sonra onun anında güncellenmesi için hazırlanmıştır.
 
 kurulum
-npm kurulum -D düğümü
+"npm kurulum -D nodemon" şeklindeki terminalimizde çalıştırıyoruz.
 package.jsonda da server şeklindeki sunucumuzun çalıştırılma adımını ekliyoruz.
     "start": "node index.js",
     "sunucu": "nodemon index.js",
